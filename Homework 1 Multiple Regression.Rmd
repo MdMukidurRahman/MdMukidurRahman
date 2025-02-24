@@ -1,0 +1,101 @@
+---
+title: "Homework 1 (Review Multiple Regression)"
+author: "Md Mukidur rahman (NILOY)"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Overview
+
+This homework assignment is going to give you hands-on practice building and working with a multiple regression model using an application problem.
+
+Remember to comment out or delete any instance of the View() function in your code. The View() function will cause an error when the file tries to knit/render to a pdf.
+
+## Due Date
+This assignment is due Sunday September 22 by 11:59pm EST. No late assignments are accepted. No revisions or resubmissions are accepted once the due date has passed. Ensure your work is your best and final effort.
+
+## Assignment Points
+This homework assignment is worth 4 points. There are 6 questions and each question is worth 1.5 points each.
+
+## Submission Instructions
+
+In the YAML code, insert your name. When you have all your code and responses in the R Markdown file, knit (render) the file to a pdf file. Upload the pdf file to the Homework 1 assignment link in Module 2 in Brightspace.
+
+## Data Description
+
+This assignment uses the butler.csv file that is in the data folder of your RStudio environment. This data is used throughout Chapter 8 in the text. The data is from Butler Trucking Company. This company makes deliveries of goods to different customers throughout the country.  The data has six variables that are described below. 
+
+Assignment - unique delivery assignment to each driver
+
+Miles - miles driven to make delivery
+
+Highway - indicates whether driver drove on a highway or not (1=Yes, 0=No) while making delivery
+
+Region - region of the country the delivery was made (four regions are A, B, C, D each indicating a different part of the US)
+
+Time - amount of time each delivery took (measured in hours)
+
+## Your Task
+
+You are going to build a multiple linear regression model in which you use the features Miles, Highway, and Region to predict the target variable Time for each delivery. Do not use the Assignment variable for the model building process. The Assignment variable is a unique identifier for each delivery.
+
+## Import the Data 
+
+1. Create an R data frame using the butler.csv file that is in data folder of this environment. Name the R data frame 'butler'.
+
+```{r}
+#create data frame
+butler <- read.csv("/cloud/project/data/butler.csv")
+
+
+```
+
+2. How many levels/categories are there for the features Highway and Region?
+Hint: Remember, in order to use the nlevels() function, the variable must be a factor.
+Your code must support the answers you state below the code chunk.
+
+```{r}
+butler$Highway_f <- as.factor(butler$Highway)
+butler$Region_f <- as.factor(butler$Region)
+
+nlevels(butler$Highway_f)
+nlevels(butler$Region_f)
+
+str(butler)
+
+```
+
+Number of levels/categories for Highway: 2
+
+Number of levels/categoris for Region: 5
+
+
+3. How many parameter estimates are you expecting for the feature Highway when you build the multiple regression model?
+-Since Highway is a binary variable (1 = Yes, 0 = No), we expect 1 parameter estimate for this feature. This is because binary variables usually have one parameter representing the change in the outcome when the condition is true (1) compared to the baseline (0).
+
+
+
+4. How many parameter estimates are you expecting for the feature Region when you build the multiple regression model?
+-Region has 4 categories, meaning we expect 3 parameter estimates when building the regression model
+
+
+5. Build a multiple linear regression in which you use the features Miles, Highway, and Region to predict the target variable Time for each delivery. Use the factor variables for Highway and Region. Name the model object you create 'multiple_reg'. Output the parameter estimates for the model.
+
+```{r}
+multiple_reg <- lm(Time ~ Miles + Highway_f + Region_f, data = butler)
+
+summary(multiple_reg)
+
+```
+
+6. Find the predicted probability for the delivery time for the **_first_** observation in the butler data frame. Show your work. That is, write out the regression equation using the parameter estimates and show the values of the features for the first observation inserted into the multiple regression equation. Use appropriate notation to denote the predicted value.
+
+$$time = 1.864+(0.069*100)+0+(-0.042*1)=8.722$$  
+
+
+6. Find the predicted probability for the delivery time for the **_sixth_** observation in the butler data frame. Show your work. That is, write out the regression equation using the parameter estimates and show the values of the features for the sixth observation inserted into the multiple regression equation. Use appropriate notation to denote the predicted value.
+
+$$time = 1.864+(0.069*80)+0+0=7.384$$
+
