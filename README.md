@@ -7,6 +7,4 @@
 - 📬 Reach me at: mdmukidur.rahman@snhu.edu | (https://www.linkedin.com/in/md-mukidur-rahman-1a414485/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I blend art with analytics to tell compelling data stories!
-- 
-Here is a project that showcases my [data analytical skills]
-(Homework 1 Multiple Regression.Rmd)
+- Here is a project that showcases my [data analytical skills](Homework 1 Multiple Regression.Rmd)
