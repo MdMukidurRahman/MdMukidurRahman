@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @MdMukidurRahman
-- 💡 Passionate about creativity, design, and data-driven solutions.
-- 📈 Background in Marketing & Business Analytics with IT expertise.  
-- 🎨 Experienced in graphic design, photography, and cinematography.  
-- 📊 Currently mastering Data Analysis and Visualization.
-- 🚀 Looking to collaborate on data visualization, business intelligence, and marketing analytics projects.
-- 📬 Reach me at: mdmukidur.rahman@snhu.edu | (https://www.linkedin.com/in/md-mukidur-rahman-1a414485/) 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I blend art with analytics to tell compelling data stories!
-- Here is a project that showcases my [data analytical skills](Homework 1 Multiple Regression.Rmd)
+# Hi, I'm Md Mukidur Rahman 👋
+
+### Data & Business Analytics | Marketing Insights | Visual Storytelling
+
+I combine business thinking, analytical tools, and a creative background to turn data into clear, useful stories. My interests include data analysis, business intelligence, marketing analytics, and visualization.
+
+## What I work with
+
+- **Analysis:** Python, R, SQL, Pandas, NumPy
+- **Visualization:** Tableau, Matplotlib
+- **Databases:** PostgreSQL
+- **Workflow:** Jupyter Notebook, R Markdown, Git, GitHub
+- **Creative strengths:** Graphic design, photography, and cinematography
+
+## What I'm focused on
+
+- Building practical data-analysis and visualization projects
+- Translating business questions into measurable insights
+- Creating dashboards and reports that make findings easy to understand
+- Exploring customer, marketing, and operational data
+
+## My approach
+
+1. Start with a clear business question
+2. Clean and explore the data
+3. Choose methods that fit the problem
+4. Communicate the results visually
+5. Turn findings into practical recommendations
+
+## Let's connect
+
+I'm interested in collaborating on data visualization, business intelligence, and marketing analytics projects.
+
+- [LinkedIn](https://www.linkedin.com/in/md-mukidur-rahman-1a414485/)
+- [Email](mailto:mdmukidur.rahman@snhu.edu)
+
+---
+
+*I blend art with analytics to tell compelling data stories.*
