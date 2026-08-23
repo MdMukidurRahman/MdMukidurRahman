@@ -29,10 +29,10 @@ I combine business thinking, analytical tools, and a creative background to turn
 
 ## Let's connect
 
-I'm interested in collaborating on data visualization, business intelligence, and marketing analytics projects.
+I'm open to data analyst, business analyst, and marketing analytics opportunities, as well as collaborations involving data visualization and business intelligence.
 
 - [LinkedIn](https://www.linkedin.com/in/md-mukidur-rahman-1a414485/)
-- [Email](mailto:mdmukidur.rahman@snhu.edu)
+- [Email](mailto:mdmukidurrahman1@gmail.com)
 
 ---
 
