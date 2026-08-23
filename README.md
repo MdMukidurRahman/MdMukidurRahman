@@ -4,18 +4,25 @@
 
 I combine business thinking, analytical tools, and a creative background to turn data into clear, useful stories. My interests include data analysis, business intelligence, marketing analytics, and visualization.
 
-## Featured project
+## Selected projects
 
 ### [Operations Research & Linear Programming Portfolio](https://github.com/MdMukidurRahman/operations-research-linear-programming)
 
-Seven formula-driven decision models covering product mix, capacity planning, investment allocation, and flight scheduling. The downloadable Excel workbook includes objective calculations, resource usage, binding-constraint checks, and visible coefficient matrices for auditability.
+Seven formula-driven decision models covering product mix, capacity planning, investment allocation, and flight scheduling.
 
-**Skills demonstrated:** Excel · Linear programming · Optimization modeling · Capacity planning · Resource allocation · Business analytics
+### [Applyward — AI Career Platform](https://github.com/MdMukidurRahman/applyward-career-platform)
+
+Responsible AI product design for student job discovery, truthful document tailoring, application workflows, privacy controls, and auditable automation.
+
+### [Revive Health — Product Design Case Study](https://github.com/MdMukidurRahman/revive-health-product-design)
+
+Privacy-first requirements for an adults-only, non-diagnostic sexual-health education and recovery-support platform.
 
 ## What I work with
 
 - **Analysis:** Python, R, SQL, Pandas, NumPy
 - **Optimization:** Excel, linear programming, operations research
+- **Product design:** Technical requirements, workflow design, privacy by design, responsible automation
 - **Visualization:** Tableau, Matplotlib
 - **Databases:** PostgreSQL
 - **Workflow:** Jupyter Notebook, R Markdown, Git, GitHub
@@ -23,10 +30,10 @@ Seven formula-driven decision models covering product mix, capacity planning, in
 
 ## What I'm focused on
 
-- Building practical data-analysis and visualization projects
+- Building practical analytics and product-design case studies
 - Translating business questions into measurable insights
 - Creating dashboards and reports that make findings easy to understand
-- Exploring customer, marketing, and operational data
+- Designing responsible, privacy-conscious digital workflows
 
 ## My approach
 
@@ -38,7 +45,7 @@ Seven formula-driven decision models covering product mix, capacity planning, in
 
 ## Let's connect
 
-I'm open to data analyst, business analyst, and marketing analytics opportunities, as well as collaborations involving data visualization and business intelligence.
+I'm open to data analyst, business analyst, and marketing analytics opportunities, as well as collaborations involving data visualization, business intelligence, and responsible product design.
 
 - [LinkedIn](https://www.linkedin.com/in/md-mukidur-rahman-1a414485/)
 - [Email](mailto:mdmukidurrahman1@gmail.com)
