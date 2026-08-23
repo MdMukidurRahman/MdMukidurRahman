@@ -4,9 +4,18 @@
 
 I combine business thinking, analytical tools, and a creative background to turn data into clear, useful stories. My interests include data analysis, business intelligence, marketing analytics, and visualization.
 
+## Featured project
+
+### [Operations Research & Linear Programming Portfolio](https://github.com/MdMukidurRahman/operations-research-linear-programming)
+
+Seven formula-driven decision models covering product mix, capacity planning, investment allocation, and flight scheduling. The downloadable Excel workbook includes objective calculations, resource usage, binding-constraint checks, and visible coefficient matrices for auditability.
+
+**Skills demonstrated:** Excel · Linear programming · Optimization modeling · Capacity planning · Resource allocation · Business analytics
+
 ## What I work with
 
 - **Analysis:** Python, R, SQL, Pandas, NumPy
+- **Optimization:** Excel, linear programming, operations research
 - **Visualization:** Tableau, Matplotlib
 - **Databases:** PostgreSQL
 - **Workflow:** Jupyter Notebook, R Markdown, Git, GitHub
