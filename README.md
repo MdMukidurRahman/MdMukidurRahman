@@ -6,6 +6,10 @@ I combine business thinking, analytical tools, and a creative background to turn
 
 ## Selected projects
 
+### [City Year Manchester Education Market Study](https://github.com/MdMukidurRahman/city-year-manchester-education-market-study)
+
+Collaborative public-sector analytics capstone using 239,110 NH assessment records to benchmark Manchester outcomes, preserve subgroup suppression, and develop evidence-informed program priorities.
+
 ### [Baltimore City Employee Salary Analytics](https://github.com/MdMukidurRahman/baltimore-city-salary-analytics)
 
 Verified Excel analysis of 154,187 public payroll records across FY2011–FY2021, including trend validation, workforce change, agency concentration, police-role compensation, and a corrected growth calculation.
