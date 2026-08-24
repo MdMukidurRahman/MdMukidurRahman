@@ -6,6 +6,10 @@ I combine business thinking, analytical tools, and a creative background to turn
 
 ## Selected projects
 
+### [Baltimore City Employee Salary Analytics](https://github.com/MdMukidurRahman/baltimore-city-salary-analytics)
+
+Verified Excel analysis of 154,187 public payroll records across FY2011–FY2021, including trend validation, workforce change, agency concentration, police-role compensation, and a corrected growth calculation.
+
 ### [Operations Research & Linear Programming Portfolio](https://github.com/MdMukidurRahman/operations-research-linear-programming)
 
 Seven formula-driven decision models covering product mix, capacity planning, investment allocation, and flight scheduling.
