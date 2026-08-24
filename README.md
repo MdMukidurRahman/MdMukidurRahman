@@ -10,6 +10,10 @@ I combine business thinking, analytical tools, and a creative background to turn
 
 Verified Excel analysis of 154,187 public payroll records across FY2011–FY2021, including trend validation, workforce change, agency concentration, police-role compensation, and a corrected growth calculation.
 
+### [Used-Car Price Drivers](https://github.com/MdMukidurRahman/used-car-price-drivers)
+
+Validated regression case study using 5,801 deduplicated records. An improved log-price model raised holdout R² from 35.3% to 77.3% and reduced MAE by 44.9%.
+
 ### [Operations Research & Linear Programming Portfolio](https://github.com/MdMukidurRahman/operations-research-linear-programming)
 
 Seven formula-driven decision models covering product mix, capacity planning, investment allocation, and flight scheduling.
